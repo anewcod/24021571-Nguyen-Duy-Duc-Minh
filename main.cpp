@@ -1,4 +1,6 @@
 //bug:
+//feature: timer, boss, endless, lore(YAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY),
+//        sword durability (?),stamina,kill count, ...
 
 #include <iostream>
 #include <cstdlib>
