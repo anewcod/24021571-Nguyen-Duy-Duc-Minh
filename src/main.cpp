@@ -395,7 +395,7 @@ private:
             
             render();
             
-            SDL_Delay(16); 
+            SDL_Delay(16);   //this is for the game to run at 60 FPS
 
             static int frameCount = 0;
             frameCount++;
