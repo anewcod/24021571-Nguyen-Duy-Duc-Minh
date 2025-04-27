@@ -28,9 +28,9 @@ Demo Game:
   - Chạy file **main.exe** để chơi hoặc
   - Sử dụng [MinGW-w64](https://www.mingw-w64.org/) và các thư viện [SDL2](https://www.libsdl.org/) đi kèm để build file **main.cpp**. Chạy file vừa build được để chơi.
 # 3. How to play
-Bấm nút đúng theo hiển thị trên màn hình  
+Bấm nút đúng theo hiển thị trên màn hình sử dụng 4 nut là D,F,J và K giống như default của Osu! Mania  
 
-Game hiện tại 
+Game hiện tại chưa có nhiều bài hát nên chưa tích hợp màn hình đổi bài hát.
 
 # 4. Sources
 Game được em tự viết hoàn toàn với một số tham khảo từ:
