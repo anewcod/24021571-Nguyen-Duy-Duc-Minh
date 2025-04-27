@@ -37,3 +37,4 @@ Game được em tự viết hoàn toàn với một số tham khảo từ:
   - Game **Osu! Maina**.
   - Cách làm việc với SDL từ **LazyFoo**.
   - Thuật toán tạo note từ **Claude 3.7**.
+  - Map từ cộng đồng Osu! Việt Nam (em dùng nó để tạo map, nhưng do tự tay căn thời gian quá khó nên đã bỏ việc đó)
