@@ -22,7 +22,7 @@
 Các thư viện đi kèm: **SDL2**, **SDL2-ttf** và **SDL2-mixer**.
 
 # 1. Preview
-Demo Game: 
+Demo Game: https://drive.google.com/drive/folders/1v9NX_PkxTiY-JbQNkOeEC6NVdxSBvPNa
 
 # 2. Building And Running
   - Chạy file **main.exe** để chơi hoặc
